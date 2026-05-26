@@ -18,11 +18,11 @@ The plugin allows players to donate Ammo Packs through an interactive player sel
 
 ## Installation
 1. Place ```add_commas.inc``` in: **addons/amxmodx/scripting/include/zombie_plague**
-1. Place ```zp_donate_packs_menu.sma``` in: **addons/amxmodx/scripting/**
-2. Compile it with your AMXX compiler.
-3. Place the compiled .amxx file in: **addons/amxmodx/plugins/**
-4. Add this line to your plugins.ini: ```zp_donate_packs_menu.amxx```
-5. Restart your server.
+2. Place ```zp_donate_packs_menu.sma``` in: **addons/amxmodx/scripting/**
+3. Compile it with your AMXX compiler.
+4. Place the compiled .amxx file in: **addons/amxmodx/plugins/**
+5. Add this line to your plugins.ini: ```zp_donate_packs_menu.amxx```
+6. Restart your server.
 
 ## Required Natives
 This plugin uses custom natives to get and set ammo packs, you must change these natives based on your zombie plague version.
